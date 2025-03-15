@@ -52,7 +52,7 @@
     - 票數最高前三名可獲得 3000 NUM，體驗 Web3 世界的機制  
   - **參考 slides**
     - [2024 IPTC EIP7053](https://docs.google.com/presentation/d/1G9M9uFjpav1KiznRJp50Y9e6-COUvIp61J3ZugK2sUE/edit#slide=id.g23c1b72e491_1_450)
-    - [2022 Taipeu Blockchain Week](https://docs.google.com/presentation/d/1ypPJyij90AhmJO24DR4o4QiU9qrPMD9q0fyyEBy72WA/edit)
+    - [2022 Taipei Blockchain Week](https://docs.google.com/presentation/d/1ypPJyij90AhmJO24DR4o4QiU9qrPMD9q0fyyEBy72WA/edit)
 
 ---
 

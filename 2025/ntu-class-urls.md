@@ -19,15 +19,9 @@ Several technologies and initiatives have emerged to address these challenges:
 - [Starling Lab](https://www.starlinglab.org/) - Research center focused on digital authenticity
 - [Numbers Protocol](https://www.numbersprotocol.io/) - Blockchain-based solution for content verification
 - [Mom I See War (MISW)](https://www.misw.org/) - Industry collaboration for media integrity
-- [Numbers Protocol Verification Example](https://verify.numbersprotocol.io/asset-profile/bafkreigkhx74xp3cifdggjg6o2f37fddvz2e2wz7qopbqk2fsb6fdjxioa) - Technical implementation of verification
+- [Numbers Protocol Verification Example](https://verify.numbersprotocol.io/asset-profile/bafkreiaeg5ysm4pt4gl3dlwxhq2u2pbupph774mx3gc7ukb47k6wxeea3u) - Technical implementation of verification
+- [Capture](https://captureapp.xyz/)
 
-### Regulation Related
-
-- [China issues requirements for labeling AI-generated content](https://www.reuters.com/world/asia-pacific/chinese-regulators-issue-requirements-labeling-ai-generated-content-2025-03-14/) - Regulatory approach to AI content labeling in China
-- [Spain to impose massive fines for not labelling AI-generated content](https://www.reuters.com/technology/artificial-intelligence/spain-impose-massive-fines-not-labelling-ai-generated-content-2025-03-11/) - European enforcement mechanisms for AI disclosure
-- [California law against AI deepfakes in elections](https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77) - Legislative efforts to protect electoral integrity
-- [UK consultation on copyright and artificial intelligence](https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence/copyright-and-artificial-intelligence) - Policy development for AI content and intellectual property
-- 
 
 ## Use Case
 
@@ -41,4 +35,11 @@ The technologies above are being applied in various contexts:
 - [Defiance Media Shows](https://defiance.media/shows/) - Verified media content distribution
 - [PyroImage Platform](https://www.pyroimage.com/) - Commercial implementation of authentication technology
 
-These applications demonstrate how content authentication can support journalism, human rights documentation, democratic processes, and combat misinformation in real-world scenarios.
+
+### Regulation Related
+
+- [China issues requirements for labeling AI-generated content](https://www.reuters.com/world/asia-pacific/chinese-regulators-issue-requirements-labeling-ai-generated-content-2025-03-14/) - Regulatory approach to AI content labeling in China
+- [Spain to impose massive fines for not labelling AI-generated content](https://www.reuters.com/technology/artificial-intelligence/spain-impose-massive-fines-not-labelling-ai-generated-content-2025-03-11/) - European enforcement mechanisms for AI disclosure
+- [California law against AI deepfakes in elections](https://apnews.com/article/california-artificial-intelligence-deepfakes-election-0e70cb32b06d9187eaef5bdacaba6d77) - Legislative efforts to protect electoral integrity
+- [UK consultation on copyright and artificial intelligence](https://www.gov.uk/government/consultations/copyright-and-artificial-intelligence/copyright-and-artificial-intelligence) - Policy development for AI content and intellectual property
+

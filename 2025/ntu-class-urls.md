@@ -2,10 +2,8 @@
 
 ## Problem
 
-- [Record heatwaves drive EU's July excess deaths to 2022 high](https://www.reuters.com/world/europe/record-heatwaves-drive-eus-july-excess-deaths-2022-high-2022-09-16/) - Climate crisis reporting requires reliable data and imagery
-- [BBC: Europe's record-breaking 2022 summer led to 61,000 heat-related deaths](https://www.bbc.com/news/world-europe-64599553) - Accurate documentation of climate impacts is essential
+- [Deepfake AI Fraud of Elon Musk](https://www.cbsnews.com/texas/news/deepfakes-ai-fraud-elon-musk/)
 - [Libra Token Crash in Argentina](https://cryptobriefing.com/libra-token-crash-argentina/) - Crypto markets affected by misinformation
-- [EU lawmakers' committee reaches deal on Artificial Intelligence Act](https://www.reuters.com/technology/eu-lawmakers-committee-reaches-deal-artificial-intelligence-act-2023-04-27/) - Regulatory response to AI-generated content
 - [Content authenticity example](https://asset.captureapp.xyz/bafybeib63x3bcpzq6p2wclcbz2uzocfy4gkrdarvcufc6gnouylaqrk34a) - Demonstration of verification challenges
 
 As AI-generated content becomes more sophisticated and widespread, distinguishing authentic content from manipulated or fabricated material becomes increasingly difficult, threatening public trust in media, democratic processes, and digital information.

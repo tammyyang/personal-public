@@ -1,5 +1,7 @@
 # URLs for the NTU class on 26th Mar 2025
 
+- [Deck](https://link.numbersprotocol.io/2025-nft-deck)
+  
 ## Problem
 
 - [Deepfake AI Fraud of Elon Musk](https://www.cbsnews.com/texas/news/deepfakes-ai-fraud-elon-musk/)

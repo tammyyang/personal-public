@@ -30,6 +30,7 @@ Several technologies and initiatives have emerged to address these challenges:
 
 ### Starling Framework
 - [Starling Lab](https://www.starlinglab.org/) - Research center focused on digital authenticity
+- [Evidence of War Crimes in Ukraine to the International Criminal Court](https://sfi.usc.edu/news/2022/06/33571-starling-lab-and-hala-systems-file-cryptographic-submission-evidence-war-crimes)
 
 ## Use Case
 

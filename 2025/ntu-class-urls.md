@@ -1,6 +1,9 @@
 # URLs for the NTU class on 26th Mar 2025
 
-- [Deck](https://link.numbersprotocol.io/2025-nft-deck)
+- [Deck (part I)](https://link.numbersprotocol.io/2025-nft-deck)
+- [Deck (part II)](https://ipfs-pin.numbersprotocol.io/ipfs/bafybeicekkppel4mfxzbtm543tkmqqszw6zgbcqxzcvbfv3kvzuyy2qwym)
+- [伙影分享](https://docs.google.com/presentation/d/18yQHdG-UDKK5mK6Mmo8suNeUYeLePQrL4oIX213YKSE/edit?slide=id.g2c3bf226f09_0_709#slide=id.g2c3bf226f09_0_709)
+- [ERC 7053 實作分享](https://drive.google.com/file/d/1jhCA9SGFCKmzc74WvKRB_RgYt-o_3dy8/view)
   
 ## Problem
 
